@@ -1,0 +1,6 @@
+src/main/java/com/networkmanager/App.java
+src/main/java/com/networkmanager/models/NetworkDevice.java
+src/main/java/com/networkmanager/models/NetworkProject.java
+src/main/java/com/networkmanager/models/NetworkService.java
+src/main/java/com/networkmanager/models/Subnet.java
+src/main/java/com/networkmanager/services/ProjectManager.java
